@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <!-- 简化版的logo适配为favicon -->
+  <rect x="12" y="12" width="2" height="8" fill="#3b82f6" rx="0.5"/>
+  <rect x="16" y="12" width="2" height="8" fill="#3b82f6" rx="0.5"/>
+  <rect x="20" y="12" width="2" height="8" fill="#3b82f6" rx="0.5"/>
+  <rect x="10" y="10" width="14" height="1" fill="#1e40af" rx="0.2"/>
+  <rect x="9" y="9" width="16" height="0.8" fill="#1e3a8a" rx="0.2"/>
+  
+  <!-- 树叶装饰 -->
+  <path d="M 8 14 Q 6 11, 8 9 Q 10 8, 12 10" fill="#f59e0b" opacity="0.7"/>
+  <path d="M 24 14 Q 26 11, 24 9 Q 22 8, 20 10" fill="#dc2626" opacity="0.7"/>
+</svg>

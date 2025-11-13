@@ -7,7 +7,7 @@ hero:
   text: "独立开发者的技术博客"
   tagline: 分享技术心得，记录开发历程
   image:
-    src: /logo.png
+    src: /logo.svg
     alt: Evensoft Blog
   actions:
     - theme: brand

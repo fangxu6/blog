@@ -6,6 +6,7 @@ export default defineConfig({
   description: "独立开发者的技术博客", 
   base: "/",
   head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
   themeConfig: {
@@ -19,8 +20,13 @@ export default defineConfig({
     sidebar: {
       '/blog/': [
         {
-          text: '技术文章',
+          text: '技术分类',
           items: [
+            { text: 'Git版本控制', link: '/blog/git-version-control' },
+            { text: 'Linux系统管理', link: '/blog/linux-system-management' },
+            { text: 'AI技术', link: '/blog/ai-technology' },
+            { text: '开发规范', link: '/blog/development-standards' },
+            { text: '数据库技术', link: '/blog/database-technology' },
             { text: '开发经验', link: '/blog/development' },
             { text: '技术分享', link: '/blog/technology' },
             { text: '独立开发', link: '/blog/indie' }
