@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Evensoft Blog",
   description: "独立开发者的技术博客", 
-  base: "/",
+  base: "/blog/",
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
     ['link', { rel: 'icon', href: '/favicon.ico' }]
