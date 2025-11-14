@@ -5,6 +5,12 @@ export default defineConfig({
   title: "Evensoft Blog",
   description: "独立开发者的技术博客", 
   base: "/blog/",
+  ignoreDeadLinks: [
+    /^\/((member|notes|planet|settings|notifications|write|go|unfavorite|support|help|faq|tools|worldclock|pro|os|categories|tags|archives))\b/,
+    /^\/\d{4}\//,
+    /^\.\//,
+    /^\/md\//
+  ],
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
     ['link', { rel: 'icon', href: '/favicon.ico' }]

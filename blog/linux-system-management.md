@@ -21,10 +21,7 @@ Linux系统备份、迁移和运维相关技术文章。
   个人tar备份Linux系统的实践经验
 
 ### 系统迁移
-- [Arch Linux 系统迁移](./linux/02-migration/arch-linux-migration.md) - 2024-11-13
-  Arch Linux系统迁移的完整过程
-
-- [Arch 系统迁移(重建 boot)](./linux/02-migration/arch-migration-rebuild-boot.md) - 2024-11-13
+ - [Arch 系统迁移(重建 boot)](./linux/02-migration/arch-migration-rebuild-boot.md) - 2024-11-13
   Arch系统迁移过程中重建boot分区的经验
 
 ### 备份要点
