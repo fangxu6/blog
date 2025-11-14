@@ -1188,14 +1188,3 @@ Developed with [CodeLauncher](https://cl.v2ex.pro/)
 @[infun](/member/infun) 就是有 n 个 ssh 环境，m 个数据库环境，每个环境设账号密码，离职的时候还要手动删除，这个就很麻烦。
 
 guoguobaba 回复于2层
-
-![](moz-extension://6fadaf04-daf2-434a-95fa-ed306b3612d7/img/triangle.jpg)
-
-左旋 右旋
-
-号会员
-
-加入于
-
-![](moz-extension://6fadaf04-daf2-434a-95fa-ed306b3612d7/img/triangle.jpg)
-
