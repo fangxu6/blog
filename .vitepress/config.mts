@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Evensoft Blog",
   description: "独立开发者的技术博客", 
-  base: "/blog/",
+  base: "/",
   ignoreDeadLinks: [
     /^\/((member|notes|planet|settings|notifications|write|go|unfavorite|support|help|faq|tools|worldclock|pro|os|categories|tags|archives))\b/,
     /^\/\d{4}\//,
